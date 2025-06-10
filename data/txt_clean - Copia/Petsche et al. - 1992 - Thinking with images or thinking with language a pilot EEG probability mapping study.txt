@@ -1,0 +1,209 @@
+{NTPSY 02359
+
+Thinking with images or thinking with language: a pilot EEG probability mapping study
+
+eter  Rappekberger and Eva Schmidt-Henrich
+
+Forschtengsstelle Physiologie und Anatomie der Hirnrinde; Österreichische Akademie der Wissenschaften and Institut für Neurophysiologie der Unicersität Wien, Wien (Austria)
+
+(Accepted 24 June 1991)
+
+~~ab~~~~ mapping; Mental imagery:  Thinking process;  ognitive ctivation; x  difference C a Se
+
+EG  mappmg study  was designed  tu  explore hinking rocesses sing  complex mental imagery  and thought  processes. t p u recorded  wi'th 9  electrodes  ItI/ I f system against veraged  ear  lobe  signals)  hile  volunteers n  = 421  performed two a w f tasks: &amp;u&amp;ii&amp;on v of an  abstract  concept and  interpretation  f a painting. verage  spectral arameters such as o A p local and interhemispheric oherences  were computed  for  five requency  bands (theta,  lpha, eta  1,   and 31. esults c f a b 2 R aF  the  frontat egions r are strong&amp; involved  during these  tasks  as  evidenced  by coherence changes.  Changes  are  also in  tempnraI,  parietat  nd occipEtaI  egions  and are  discussed n  relation  o  information  processing ith  the  frontal  egions a r i t w r ring  Fhe  different cognitive functions  required  by the  tasks.
+
+INTRODUCTION
+
+ballis  nd Sergent,  1988;  Ratcliff, 79; apanicoa 19 P laou,  1987;  Rappelsberger et  al.,  987). 1
+
+ental  imagery refers o  the brain's bility  o t a t generate and  use mental  visual  images  during cognitive processes. hese images consist n  menT i tal representation of objects or events as if  they were  actually  perceived from  the  outer world ~Howard,  1983;  Finke, 1989a). aried paradigms V have been used to study mental imagery such as generating mental  images  from  memory when listening  o  words t (Farah,  1989), emorizing  conm crete nouns  with or without the use of mental imagery  (Goldenberg  et  al.,  9871, reating 1 c mental  images out of memorized topographic information (Roland and Friberg,  19851, nd mentally a rotating igures Shepard and Cooper,  1982;  Corf (
+
+Correspondence:
+
+l-i.
+
+Petschc,  Institute f Neurophysiology,
+
+o
+
+Wlhringerstr.  17. L1090 Wien, Austria.
+
+A
+
+Because thinking  with  images implies entally m 'seeing',  he relation etween  visual  perception t b and  mental  imagery has been  examined  and  it was found that  the neuroanatomical  -regions mi plicated  in perception and  processmg  of visuospatial nformation, amely  the  occipital, mpoi n te ral  and parietal ortices,  re involved  in  mental c a image generation  (Farah  et  al,,  988; arah,  t-989). 1 F Goldenberg  et  al. 1987)  found that  the imagery ( system  was  composed of medial occipital nd a inferior  emporal cortices. t
+
+Different  hemispheric specialization s been ha described  for  mental imagery.  The  ability  o  gent erate a detailed  image  from  memory has been ascribed  to  the  left  osterior  rain egions Farah, p b r ( 19891,  whereas mental rotation biIities em  to a se involve  predominantly the posterior  part  of the right  hemisphere  (Corbalis  and  Sergent, 1988;
+
+Ratcliff, 1979;  Papanicoiaou et at., 987) In a 1 rCBF  study,  Goldenberg  et  al. 1487)  found that ( the imagery system was composed of posterior regions  of both  hemispheres  but that the left hemisphere  was  predominantly  engaged  when processing erbally  licited  ental images.  Other v e m studies  do  not support a iateralized  ffect  and e indicate  that  both  hemispheres  are capable of generating  mental  images (Biggins  et al., 990; 1 see  Kossiyn  1988).
+
+Cognitive psychologists  have  proposed two theories n the  mode  of  representation  f  verbal o o and imaginai  material  in  memory.  A  dual-coding lireo~ (Paivio,  979)  states  hat erbal  and imagi1 t v nai  material re  processed  by two distinct  eprea r sentational  systems whereas  the  propositional theorv  Wyiyshyn, 1981 - see Howard.  1983)  expresses  the view that  information in the brain takes the form  of abstract  propositions  which have neither  an imaginai  nor a  verbal  form.  In  a review  article, rah (1989) uggests hat  imagery Fa s t and verbal  thought depend  upon at  least  artially p distinct  eural processes  and  consequently that n thinking  in images  is  distinct  rom  thinking  in f language.
+
+This pilot tudy tackles he question  whether s t or not differences etween thinking  with images b and thinking  with  language  might show  up in  the ongoing electrical  ctivity  f the brain.  It  also a o examines if he  brain  behaves differently en  it t wh self-creates  mental image as  opposed  to  when  it a generates  a mental image from perception  of  an e~tc~~a~  event.  Self-created ental  images are m constructed  out  of  mpmorized  images of  the  outside  world and may  introduce  the subject's  wn o imaginai nd creative  apabilities    envision eaia c to r ity with  new self-formulated  images  (Finke. i 89b). 9
+
+Subjects  were asked in  a first  ask  to  create  a t mental image out  of  an abstract  oncept and in  a c second task, o  elaborate  a verbal  interpretation t of  a  painting een prior o  EEG s t recording. oth B tasks mply  the  use  of  mental imagery but  also f i o ,Irerbal  inking. he  verbal  thoughts incite he th T t icnstruction f a mental image  in  the first  ase o c and serve  to  anaiyse   generated  mental image in a the second case.  Iln oth tasks  a mental image b must remain available  or  cognitive rocessing y f p b the brain  either  for  further  construction  of the mental image itself   for  further erbal  interpreor v tation f  it. o
+
+Such  a project  seems  worth being carried  on since, in  previous  EEG studies, significant changes of power  and coherence were  detected during a variety f cognitive asks  such as  doing o t mental arithmetic,  eading,  listening  o  a spoken r t text  and  to  music (Giannitrapani, 985;  Petsche 1 et al., 986, 1987, 1988a,b;  Rappelsberger  and 1 Petsche, 1988).  This paper  is  an  extension of previous  studies nd comprises  brain  processes  in a which even more  elaborate  brain  work should be involved  than in  simple cognitiij'n  sks; ne aim ta o among  others  was to  investigate  he  limits  f  the t o EEG methodology  developed by  us  for  the  search for  traces f  mental processes. o
+
+METHOPS
+
+Subjects  nd tasks a to be  perfumed
+
+This study  was conducted  on 42 right-handed subjects 20  males,  mean ( age 17.8  1.0, nd 22 f a females,  17.4  0.5). he  tasks  to be performed + T during  EEG recordings were  as follows (see Schmidt-Henrich,  1990):  (1)  visualization  f an o abstract  oncept:  the  subjects ere asked to  give c w four abstract  concepts of their  own choice,  to select  one  of them,  and  to try  to   isualize t v i during EEG recording  knowing  that, hereafter, t they  would  be requested to  draw their  imagination  on  a piece of paper with coioured pencils. The sketches were interpreted  by  them and demonstrated  that the volunteers  had  tried  to fulfill  eir asks o  their est  conscience;  and !2! th t t b interpretation  f a painting:  the subjects  were o sho-wn three paintings  CCC. Friedrich,  Landscape  on Ruegen,  F.  Goya, The  Carnival  Procession  and A. Brauer,  The  Last Ray  of Sun) and were requested  to  select ne of  these  pictures o o t try  to  interpret  t uring  EEG i d recording  knowing that, hereafter,  hey  would be requested  to  write t t down  their nterpretation. i
+
+Each  EEG run consisted  of the following  sequence:  EEG control before each  task,  EEG during  the  tasks 1) r  (2),  nd EEG ( o a control  after each task. he  sequence of the cognitive  activaT
+
+tion  tasks  was  changed  at random. Before and after ach task,  EEG e at  rest as recorded for  1 w min. The  eyes were  closed  during EEG recordings. ll  subjects ere paid for  the examination. A w
+
+During  visualization  f an  abstract  concept, o the following  abstract oncepts were  chosen for c visualization  the  volunteers: ove  (31,  elief  11, by l b ( death  (11,  olerance 11,  rt 11,  nity  (11,  istening t ( a ( u l (11,  narchy (l), olidays  (11, ate  (11, agnitude a h h m (l),  entality  (11,  tability 1,  ustice 11,  adness m s (1 j ( s (11, nxiety  (11, eaven  (11, eligion 11, olitude a h r ( s (1); y the female volunteers:  love  (41, ate (4), b h sadness  (11,  oy  (11, version  (l), riendliness  l), j a f ( freedom  (l), esperation  (I), riendship  (11,  eald f r ity l), elf-confidence 11, ate  (l), ife 11, ain ( s ( f l ( p (11,  antasy ii,  ar (11. f ( w
+
+Efectroi~hysiological ods meth
+
+The  EEG was recorded with respect  to  linked ear electxi?des  rom  I9 gold cup  electrodes  acf cording to the 10/20 system and stored  on analogue tape for  off-line  ata processing. he  subd T jects ere in  a reclined osition  in  a  comfortable w p chair  and had their yes  closed. hey  were given e T enough  opportunity to move and  relax  between the  runs.
+
+After  digitization   256/s,  artifacts re elimat we inated  by visual nspection. or spectral nalysis, i F a about 15  epochs of  2  s  each were chosen from the EEG records during the tasks  for computation. After Fourier transformation  of the 2 s epochs, averaged power and  cross-power spectra were computed,  the  latter  etween  adjacent  electrodes b and between  electrodes  on homologous locations of the  two  hemispheres.  Data  reduction was achieved  by extracting  road-band parameters for b five  frequency  bands: theta (4-7.5 Hz), alpha @-12.5  Hz),  beta 1  (13-18 Hz),  beta 2 (18.5-24 Hz1 and  beta 3 (24.5-31.5  Hz). The  parameter 'coherence',  hardly yet considered  in mapping techniques, as included  as  it roved to  give  hints w p as  to  the degree of the instantaneous  functional electrical  oupling of two brain regions.  By this c concept,  the  largely  sed and very  diffuse oncept u c of  'synchronization'  n  clinical  lectroencephalogi e raphy may  be comprised quantitatively.
+
+The baselines or  the  evaluation  of  task-depenf dent  power and  coherence  changes  were  ob- tained  from averaged spectra  over all  s  epochs 2 of  the  control ecords  of  each subject t  rest ith r a w eyes  closed.
+
+Statistical  aluation nd presentation  f  data as ev a o EEG probability ps ma
+
+For the  evaluation f  significant fferences  f o di o absolute  power and coherence,  the  paired Wilcoxon test as applied  to  the  differences ew b tween the corresponding parameters of the control nd task  situations. e obtained  error  proba Th abilities  re presented as  topographic  probabilwe ity aps. The  statistic  proach is urely  descripm ap p tive, .e.,  tatistics    not used to confirm or to i s is reject ull  hypotheses  but rather o  yield  hints t n t a those  of  the  various omparisons for  which possic ble  differences  xist. e
+
+RESULTS
+
+The cisualization    an abstract  oncept  (Fig. ) of c 1
+
+Effect  on amplitude. This task  provoked  a reduction  in  amplitude in  the  theta, lpha  and beta a 1  ranges  affecting  lmost  all lectrode ocations. a e l
+
+Effect  on coherence. Changes  in local  coherence were almost  exclusively  ocalized  n  anterior l i regions  of  both hemispheres but involved  mostly the  right emisphere in  the  theta,  lpha  and beta h a 3 ranges and the left emisphere  in the beta 2 h range.
+
+A  decrease  of local oherence was present  in c the theta  and  alpha ranges mainly in the right frontal  regions  extending to the right  anteriormedial temporal electrode  and  from  the latter electrode o  the  right  entral  rea. n  these  ranges, t c a I interhemispheric oherence was slightly creased c in between anterior-medial  emporal regions. t
+
+An  increase  of !ocal  coherence was observed in the beta 2 range mainly in the left  frontal regions  extending to  the  central rea  and in  the a beta 3 band  mainly in the right  frontal  regions extending to  central  and anterior-medial empot ral reas. nterhemispheric  coherence values  were a I increased  between posterior emporal areas  in  all t beta  ranges  but  most strongly n  the  beta  2  range i where  increases ere  also  observed between  all w l'rontai  eas  and between central egions. ar r
+
+Local coherence and  interhemispheric oherc ence  values ere completely  unaiiered  in  parietal w regions  and were slightly  ncreased  between  left i posterior  emporal  and occipital ectrodes n  beta t el i :  and beta  2 .
+
+The interpretation of  a painting  (Fig. 2)
+
+Effect  on amplitude. This  task rovoked a  global p reduction  in amplitude  in all  ranges.  This decrease  was lateralized  o the left emisphere  in t h the beta 1 range and was localized n  posterior i regions  in  the  beta  3 range.
+
+Effect on  coherence. Local coherence was decreased  main!y  in  the  right nterior  egions  in  the a r alpha range and in  the right osterior egions  in p r ;he  betd  rarzes  aird as increased  mainly in  the w left emisphere of  most frequency  bands. h
+
+The  decrease of local  coherence was present in  the alpha band  between  a!1 lectrode  sites n e i the right  frontal  regions  and  reached the right anterior-medial emporal and right  central  eiect trodes.   notable  decrease was also  present  beA tween polar  and parasagittal ontal  lectrodes n fr e o the left emisphere  in  both lower ranges.  These h changes were associated  ith  an increase n  interw i hemispheric  coherence  between frontal polar areas  in  the  theta  range.  In the  beta  ranges, he t decrease of local  coherence was mostly concen-
+
+Fig. 1.  Probability maps. The  maps show the error  probabilities nccording to statistical valuations  of the EEG e spectral parameter differences between visuahzation  of an abstract concept  (AR/CO) and  the control situation (AZ/Eyes closed). The five  rows  relate to the  five frequency bands examined. The three  columns concern: mean amplitude per frequency band, local coherence, i.e., coherence between adjacent  electrodes  along  the transverse and  longitudinal  rows,  and  interhemispheric coherence, i.e..  oherence c between corresponding sites  of both  hemispheres. Significant amplitude differences  are indicated  by squares  at the corresponding t:oiticiJ,: osilio~ p A sifinificant ransverse  or  longiiadica:  coherence t change is presented by  a square drawn between the  two electrodes  involved.  A significant interhemispheric ~.\Lc;;n;z :!~rlg-  is marked by squares at the two electrode locations of homologous sites  of both  hemispheres connected t-y  a  line.  Black sqtmres indicate  amplitude or  co'rterence increase  Ltnd empty squares  amplitude or coherence decrease provoked by the cognitive task.
+
+Pea
+
+trated  around  the parietal  region of the right hemisphere. An  interhemispheric  coherence  decrease  was  slightly  resent between  parietal ep r gions  in  the  beta I  range.
+
+Differences between sexes
+
+An  increase  of local oherence was present  in c the lower frequency ranges mostly in the theta band in the  left  hemisphere extending  from frontal  to central, o temporal  and  to parietal t regions with  interhemispheric coherence  being slightly  ncreased  between  anterior-medial  temi poral  areas. n the alpha band, a major increase I of local oherence was observed in  the left enc c tral egion.  In all  beta bands, increases  of local r coherence were mostly  localized  n  the  left  rontal i f regions involving  lateral nd  parasagittal leca e trodes in all  cases.  Interhemispheric coherence values  were mostly increased  in  the beta 1  range between  polar  and  lateral  rontal  areas  and  bef tween posterior emporal areas. t
+
+In  both tasks,    difference etween males and a b females  occurred. During  interpretation f  a o painting, he  decreases  of  local oherence in  the t c lower frequency  bands involving  he  right rontal, t f anterior-medial  temporal  and  central regions were  not present in the female group. During visualisation    an  abstract  oncept, hese  changes of c t were  present  in  both sexes  but were  most  pronounced  in  the  female group.
+
+DISCUSSION
+
+This  pilot  tudy  permits  formulation f  hypoths o esis  regarding  the  relation  etween regiona! eub n rophysiologic  hanges and cognitive rocesses  inc p volved  in  thinking nd in  complex form of  mental a imagery as  shown  by EEG probability  apping. m
+
+Further  studies  need  to be conducted  to better discriminate he different ognitive  components t c being  activated  uring  such complex  mental prod cesses  and to further  analyse  dynamic  electrical interactions tween different  rain  areas. be b
+
+The present  results  ndicate  hat uring  visuali t d ization  f  an abstract  oncept and interpretation o c of  a  painting,  he  most significant anges occur t ch in  the  frontal  egions. rontal  regions  have been r F shown  to  be involved  in  executive unctions uch f s as  planning  and sequencing  of  behavior  and cognition  (Euria,  !9?3;  Roland, 19S4). hese  funcT tions mply  neurophysiologic nteractions tween i i be prefrontal ortex  and  other brain areas,  a fact c supported by neuroanatomical interconnections between  prefrontal,  osterior arietal,  emporal p p t and occipital  ortices s  described  by Goldmanc a Wakic  (1988).
+
+Mnemonic  and  attentional functions  of  the frontnl lobe
+
+One  frontal obe function  is  to memorize l results r  each step  performed  during a cognitive o task  in  order  to  decide how  to  further xecute  a e task, hus  playing  a role  in  temporal ordering  of t recent events and  in self-organizing  ehavior b (Milner  and Petrides, 1984; Goldman-Rakic. 1984). atients ith lesions ocalized  n  the right P w l i frontal  obe  showed  impairment in  a recency-disl crimination ask  involving epresentational  rawt r d ings  as  opposed  to  a  verbal ateriai Corsi. 972 m ( 1 - see  Kolb and Whishaw,  1990).  ustained  attenS tion has also been  related  to right  prefrontall activity oland and Friberg, 985;  Pardo et  al., (R 1 1991).
+
+In  the  theta nd alpha  frequency  ranges  during a both tasks  of our study,  the decrease in local coherence localized n the right  frontal  regions i extending  into  the  anterior-medial  ortion  of  the p temporal lobe  may  be related o  such mnemonic t and attentional  unctions f  the  frontal obe. he f o l T extension of thew changes into  the right empot ra!  lobe and  the increase, lthough  slight,  f a o interhemispheric  coherence  between anteriormedial temporal regions, upport this  hypothesis s considering  the recognized  role  of these  regions in mnemonic functions  (Mishkin  and  Appenzeller, 1982, especially he specific ole  of the t r right temporal lobe  in  non-verbal  memory i'Miiner,  97Oi. i
+
+These  right  fronto-temporal  local  and  interhemispheric coherence  changes may  reflect he t necessity  for the brain to maintain 'visible' a mental image during visualization  an abstract of concept and interpretation  f  a  painting  in  order o to further act upon it  implicating  mnemonic, arousal  and attentional  omponents. c
+
+These local oherence changes were present  in c both sexes  during  the  visualization   an abstract of concept,  a  task  in  which maintenance and organization  of a mental  image  is  central. owever, H differences etween  sexes  were observed during b interpretation  f  a  painting: emales  did not preo f sent  these  changes.  One  explanation ay  be that, m when analyses  of written sentences were  conducted  following  EEG recording,  males  bad  a strong  tendency to provide descriptions nd not a interpretations  f the painting  whereas  females o as  a  whole provided  definite nterpretations.  is i Th may  indicate  different ognitive tyle etween a c s b sexes  with  males  remaining  fixed n the  painting's o image when  engaging more  in  a descriptive  rop cess  and femaies  drifting  owards  verbal  thinking t unbounded to  this mage  in  an interpretiv-e  oi pr cess.
+
+Image and thought assembling functions of the fronral  lobe
+
+Divergent thinking  processes  tested  with tasks requesting  numerous and  varied self-generated responses  have  been associated o  frontal  ctivity. t a These tasks  include  word  listings erbal luency) (v f and non-sense  drawings  (non-verbal luency) ith f w left rontal esioned  patients eing  more  sensitive f l b to the former  task and  right  frontal  lesioned patients eing  more  sensitive  o  the  latter  Milner b t ( and  Petrides,  1984;  Jones-Gotman and  Milner, 1977). otor cortices ave been shown  to  play  a M h role  in mental programming of motor  behc::iLr before the  actual  display f the  behavior  (kuria, o 1973; Roland,  1984).  In our  study,  both  tasks requested  a  self-generated  ental construction f m o an image or  of  a  sequence of  thoughts  which had to be  drawn  or written on  a sheet of paper following the EEG recording.  Our results  in frontal egions  in  the beta  ranges  may  reflect  n r a
+
+assembling function  of the frontal  lobe required f#w  ',-snrtrl'tkn nf Iv1 b~LL~.IuLLLvIL vL a menta! image d  uring  visualization  f  an abstract oncept or for  organization o c of  thoughts  during interpretation  f  a  painting. o
+
+During  visuaiization  f an  abstract  concept, o the fact  that  local oherence  is  increased  in  the c left nterior uadrant,  a  region  recognized  for  its a q role  in  language production,  in  beta 2 range and in the right  anterior  quadrant, a region more related  to non-verbal functions,  in the beta 3 range  may  indicate he  presence of  an interactive t association etween  thinking  with language and b thinking with  images, i.e.,  etween b the verbal thoughts related  to an abstract  concept  chosen and  the visual  mental  image  being constructed. This  view  is n  agreement with  a  relative  symmei a try  of functions described in the frontal  lobes (Kolb and Whishaw,  1990)  and therefore,  thinking  with language would  be more  related  to left frontal  activity hereas w thinking with  images would imply a right rontal ontributioni. f c
+
+Different  results  re  observed during interprea tation  of a painting  where  the main  increase  of local  coherence  in  the beta ranges is  present in the  left  nterior egions  and only  slight ncreases a r i are observed in the right  anterior  regions.  This task  involves ainly analysing  a fixed  mental imm age of the painting with verbal thoughts. The subject  only needs to keep the image  present  in his  mind  in  order to  elaborate  an interpretation. This  verbal  thinking  may  thus  be related  to  these left nterior hanges.  The  absence of  a construca c tive  process  of an image would  explain  the relative  absence  of  changes  in the  right anterior quadrant  as in the first ask and  would t thus support the previously  expressed view of a relative  right  frontal  predominance in certain  nonverbal  functions. he  local oherence increaz-?  n T c i the left emisphere  of the theta  range may  also h be  associated  ith  language  function  as  was shown w in  previous  language activation experiments (Lacroix  et  al.,  9911. 1
+
+Interactke information processing between  frontal lobe  and  posterior  regions
+
+In the beta ranges during the visualization  f o an  abstract  concept, an  assembling function of the  frontal obe  may  involve  a functional onnecl c tion  with the posterior egions  in  order to have r access to visual  memory storage.  Farah  (1989) attributed  he  ability   generate  a  detailed mage t to i from  memory to the left osterior rain  regions p b and  Goldenberg  et  al. 1987)  found that  medial ( occipital nd  inferior emporal cortices f both a t o hemispheres were  eng,!gcd  during mental imaging with predominance of the left  hemisphere when  verbally licited  ental images were used e m during memory tasks. uring visualization  an D of abstract  oncept,  changes were observed in  these c particular  regions as local  coherence  was  increased between  the left ccipital  nd posterior o a temporal electrodes  in  beta 1 and beta  2 ranges and  interhemispheric  coherence  was  increased between  posterior  temporal regions  in all  beta ranges.  These changes may  reflect   retrieval  f a o visuai ata  from memory d storage.  uring a route D imagination  task, oland  and Friberg  (1985)  also R attributed hanges in  occipital  nd temporal rec a gions  to  retrieval   visual nformation. of i
+
+Information processing may  also  be  present between the  frontal nd the  parietal  egions. oa r C herence  involving  parietal  sites howed s differences between  both tasks. ocal and interhemiL spheric  coherence of  these  sites  ere almost  comw pletely naffected  by visualization  an abstract u of concept and local oherence showed  a slight  ec d crease during the interpretation  f a painting o mostly in the right  hemisphere  and in  the beta ranges.  These  results re in  sharp contrast ith a w important  changes observed in  local oherence of c parietal egions  during a mental figure  rotation r task (Rappelsberger et al., 987)  and  in silent 1 reading (Petsche et al., 9871,  observations  re1 lated  to  visuo-spatial  nalytic  unctions  involved a f during these tasks.  The  results f the present o experiments may  indicate hat  interpretation   a t of painting  invoives isuo-spatial  nalytic unctions v a f of  the  right arietal  rea  whereas visualization p a of an abstract  oncept does not. c
+
+Conclusion
+
+Roland  and  Friberg (1985)  related  thinking processes to changes  present in prefrontal  regions. Our  results  suggest that sustained and elaborated  verbal  or  imaginal  thinking uch as  in s the  present experiments  involves  strongly  the
+
+frontal egions.  hey  also  suggest  that, hen  no r T w reference o  external vents  takes  place  and selft e generated  thinking s erformed,  then the  electrii p cal changes are predominantly  located in the frontal  egions. r
+
+As to  the  neuroanatomical regions  involved  in mental imagery,  our results  oint  to  the  presence p of  functional  onnections  implicating  any  brain c m regions  and show  the difficulty   defining  s?ein cific  ateralizing   localizing  ffects  hen  using l or e w complex forms of  mental imagery  which incorporate  many  cognitive  ub-tasks. s
+
+Lq &amp;is study,  during self-formulated ental m images or  thought  processes hich implied  a  crew ative  activity  the part  of the subject  through on subjective elections f elements from  memory s o storage  and sequential rganization f these  eleo o ments,  the  EEG underwent task-dependen: changes of  the  parameters power and coherence, changes of varying intensity,  ocation  and  frel quency. So, the question as to whether  tasks involving thinking  may provoke detectable changes in  the  background EEG can generally e b answered positively.
+
+REFERENCES
+
+Biggins, CA.. Turetsky, B.  and Fein.  G. (19901 he T cerebral idteraliij  of iiii?fiid image generation  in normal subjects. Psychophysiologv. 27:  57-67.
+
+Corbaiiis,  L. M and Sergent, .  (1958)  Imagery in  a commisJ surotomized patient. ,~e~~~o~~~~o~o~~~,  26: 13-26.
+
+Farah. M.J.,  Pcrxmet. F., Gonon, M.A. and Giard. M.H. (1988)  Electrophysiotogical  idence  for a  shared ev representational  medium for VISUZI images and  visual percepts. J.  E&amp;p. PsychoI., 117:  3, 248-257.
+
+Farah,  M.J. 1989) The ( neural  basis of mental imagery. Trends Neurosci.. Vol.  12,  10, 95-399. 3
+
+Finkc.  R.A. (1989aI  Information retrieval  sing  mental imc ages. En ?rinciples of  entul M Image?, Eradiord Book. The MIT Press. Cambridge, Massachusetts, pp.  l-28.
+
+Fir&amp;e.  R.A.  (1989b)  Mental constructions  and  discoveries. In Principles of  Mental Imagery. Bradford Book. The  MIT Press.  ambridge, Massachusetts.  p.  117-140. C p
+
+Giannitrapani. . (1985)  The D Electrophysio!ogy  of Intellectual Functions. Karger,  Basel, p.  247. p
+
+Goldenberg. G., Podreka, I., teiner, .  and  Willmes, K. S M (1987)  Patterns f  regional  erebral  blood flow  related o o c t memoiizing of  high  and low  imagery  words - an emission computer tomography study. Neuropsychologia, 25: 3,473485.
+
+Goldman-Rakic. P.S.  (1984) The  frontal  lobes:  uncharted provinces  of  the  brain. rends T Newosci.. November, 425429.
+
+Goldman-Rakic.  P.S. 19883 Topography  of  cognition:  arallel ( ' p distributed  etworks  in  primate  association  ortex. nna. n c A Ret: Neurosci..  11:  137-156.
+
+Howard, D.V. (19831  Imagery.  in Co&amp;iora  ps#r&amp;gy: ?rrerrrory, lartguage and  thought, Mac~~~~a~ Publishing o..  New C York,  pp.  223-249.
+
+Jones-Gotman, M.  and  Milner,  B. (19753  i)esign ~~e~~: the invention  of  nonsense drawings  after ocal  orti~a f c Neurop~chobgia. 15: 653-674.
+
+Kolb.  B. and  Whishaw. I.Q. (1 B  The ~~~t~~ I&amp;es. mentals  of  human newopsychobgy, 3rd  Edn..  Freeman  and Co.,  New  York  &amp;j-501.
+
+Kosslyn.  SM. (19881  Aspects of  a ~g~~t~e neuroscience of mental imagery. Szience. 240:  1621-1626.
+
+Lacroix. ..  Rappelsberger. .. teinberger.  .,  Thau  K. and D P S K Pets&amp;e. H.  ( 991)  EEG 1 mapping while  listenitag    a text: lo differences etween  controls  and  schizophrenics.  aper b P presented  at  the  Tenth Congress  of  the  European  Federation  for Medical Informatics,  August 19-32,  Vlensa, Austrza.
+
+brain: ar Luria, A.R. (1973) i%e EGO #C#&amp; 4?0 neumpsycho40fl. Penguin
+
+Milner,  B. (19701  Memory an edial emporal  regions f t o the brain.  In K.H. P&amp;ram and DE. Brmdbewt E&amp;J. Biologicnl bases of  menmy. New  York. Academic Press.
+
+Milner, B.  and Petrides. .  (19841  ~e~a~o~ra~ M frontal-lobe  esions n man.  Tre&amp;s  Nc~rosci.. l i 7.  403-407.
+
+Mishkin, M. and Appenzeller. T.  (119S7) The anatomy of memory. Scientific American, 256: 80-89.
+
+Paivio, A. (197% In?agely  and  verbal  prwesses. Pockberger. H.  and  Rappelsberger. P. (~9~~~ rapby  and  mental  performance. In F.H.  Duff$ graphic ~a~~~g of  the Brain, Buitetworth, Stoneham, 63-98.
+
+Papanicolaou,  A.C..  Deutsch.  G.,  Bourbora, .T.,  Will, .W., W K Loring. D.W.  and  Eisenberg, H.M.  (1987)  Convergeni evoked  potential  and  ccrebrai  blood  flow evidence of task-SDecific  emispheric  differences.  ~~ec~~~~e~/i~~. h Clito. Nerrrop~ysiol..   S  15-520. 65:
+
+Pardo,  J.V.. ox,  P.T.  and Raichle. .E. (1991)  Localization F M of a human system for  sustained  attention  by positron emission  tomography. Nature, 349:  61-64.
+
+Petsche.  H.. Pockberger.  H.  and  Rappelsberger,  P. (1986) EEG topography  and mentai performance.  In F.H. Duff) (Ed.), Topographic lcfapping  of  the  Brain. Butterworth, Stoneham, pp.  63-98.
+
+Petsche,  H.. Rappelsberger,  P. and  Pockberger,  H. (1987) EEG-Verlnderungen beim  Lesen. In  H.M. Weinmann (Hsg.1, .&amp;gang zum Verstiindnis  hiilierer  Himfunktionen durch  das  EEG, Zuckschwerdt.  Miinchen,  pp.  59-74.
+
+Petsche,  H.,  Lindner,  K,  Rappelsberger,  P.  and  Gruber, G. (198%)  The  EEG - an adequate method  to concretize brain processes  elicited y music. b Music Perceptiotr, 6: 133-159.
+
+Petsche,  H., Rappelsberger,  P.  and  Pockberger,  H. (1988b) Sex differences  f  the  ongoing EEG: o probability  apping m at  rest nd during  cognitive asks.  n G. Pfirrtscheller  d a t I an F. pes  da  Sitva fEds.1, Fmctimal Brain Imaging, Sprkngx, Berlin-Heidelberg-New  York, pp.  161-170.
+
+Pylysbyn,  Z.W. (19gi)  The  hnagery debate:  analogue media versus  tacit  nowledge. k Fsychd. Rer., 88: 16-45.
+
+Rappelsberger,  P..  Krieglsteiner,  .,  Mayerweg, S M., Pockberger, -l. d Petsche.  H. (1987)  Probability  apping  of L an m EEG changes:  application o  spstiai magination  studies. t i J.  Clin ~~o~ito~~g. :  320-322. 3
+
+Rappelsberger.  P.  and  Petsche.  H. (19881  Probability apm pmg: power and coherence analysis  f  cognitive rocesses. o p Brein )'.  : 1 46-54.
+
+Ratcliff,  . (1979)  Spatial hought,  mental rotation nd the G t a right erebral emisphere. c h Neuropsychologia,  17: 49-54. Roland, P.E.  and Friberg, .  (1985)  Localization  f  cortical L o areas  activated y thinking. . b J Neurophysiol..  53: 12191243. Roland, P.E. (1984) Metabolic  measurements  of  the  working frontal ortex  in  man. c Trenak Neurosci., November,  43% 435. Schmidt-Henrich,  E.  (19901  Inteliigenz  ttd reatividt: rsre u K E ergebnisse  der konstruktion  von kreativitiitsaufgaben zur vorgabe  wghrend einer  EEG-untersuchung. Psychologie in hterreich, 3-4: 21-23. Shepard. R.N. and Cooper, L.A. (1982) Mental  images  and their  transformations, The  MIT Press,  Cambridge, Massachusetts.
