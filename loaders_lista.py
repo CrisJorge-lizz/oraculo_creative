@@ -1,7 +1,8 @@
 import os
 from time import sleep
 import streamlit as st
-import pandas as pd
+from pathlib import Path
+import hashlib
 from langchain_community.document_loaders import (WebBaseLoader,
                                                   YoutubeLoader,
                                                   CSVLoader,
@@ -10,6 +11,15 @@ from langchain_community.document_loaders import (WebBaseLoader,
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from fake_useragent import UserAgent
+
+ROOT_DIR       = Path(__file__).resolve().parent          #  …/seu-projeto
+DATA_TXT_DIR   = ROOT_DIR / "data" / "txt_clean"          #  …/data/txt_clean
+INDEX_BASE_DIR = ROOT_DIR / "indices"                     #  …/indices
+INDEX_BASE_DIR.mkdir(exist_ok=True)
+
+def _sha256(path: Path) -> str:
+    with open(path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
 
 def carrega_site(url):
     documento = ''
@@ -53,25 +63,47 @@ def carrega_txt(caminho):
     return documento
 
 def carrega_lista_txt():
-    data_dir = os.path.join(os.path.dirname(__file__), "data", "txt_clean")
-    if not os.path.exists(data_dir):
-        st.error(f"Pasta {data_dir} não encontrada.")
+    if not DATA_TXT_DIR.exists():
+        st.error(f"Pasta {DATA_TXT_DIR} não encontrada.")
         return []
-    arquivos_txt = [os.path.join(data_dir, f) for f in os.listdir(data_dir) if f.endswith('.txt')]
-    if not arquivos_txt:
-        st.warning("Nenhum arquivo .txt encontrado na pasta data/txt_clean.")
+
+    arquivos = sorted(DATA_TXT_DIR.glob("*.txt"))
+    if not arquivos:
+        st.warning(f"Nenhum .txt em {DATA_TXT_DIR}.")
         return []
+
     documentos = []
-    for caminho in arquivos_txt:
-        try:
-            loader = TextLoader(caminho)
-            docs = loader.load()
-            # Garante que cada doc tenha metadata['source'] preenchido
-            for doc in docs:
-                if 'source' not in doc.metadata:
-                    doc.metadata['source'] = caminho
-            documentos.extend(docs)
-        except Exception as e:
-            st.warning(f"Erro ao ler {caminho}: {e}")
-    st.info(f'Carregando {len(arquivos_txt)} arquivos .txt da pasta data/txt_clean...')
+    for caminho in arquivos:
+        loader = TextLoader(str(caminho))
+        docs = loader.load()
+        for doc in docs:
+            doc.metadata.setdefault("source", str(caminho.relative_to(ROOT_DIR)))
+            doc.metadata["sha256"] = _sha256(caminho)
+        documentos.extend(docs)
+
+    st.info(f"Carregados {len(arquivos)} arquivos de {DATA_TXT_DIR}.")
     return documentos
+
+# --- Construção/Persistência do índice ---------------------------------
+def get_vectorstore(project: str, api_key: str | None = None):
+    """
+    Devolve (vectorstore, created_now:boolean).
+    Salva/recupera em  …/indices/<project>/index.faiss
+    """
+    project_dir = INDEX_BASE_DIR
+    project_dir.mkdir(parents=True, exist_ok=True)
+    index_file = project_dir / "index.faiss"
+
+    embeddings = OpenAIEmbeddings(openai_api_key=api_key)
+
+    if index_file.exists():
+        vs = FAISS.load_local(str(project_dir), embeddings, allow_dangerous_deserialization=True)
+        return vs, False
+
+    docs = carrega_lista_txt()
+    if not docs:
+        st.stop()
+
+    vs = FAISS.from_documents(docs, embeddings)
+    vs.save_local(str(project_dir))
+    return vs, True
