@@ -2,12 +2,13 @@ import streamlit as st
 from langchain.memory import ConversationBufferMemory
 #                               avaliar outros tipos de memoria
 
-from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
+from langchain_community.chat_models import ChatOllama
+from langchain_community.embeddings import OllamaEmbeddings
 
 from langchain.prompts import ChatPromptTemplate
 
-from loaders_lista import *
+from loaders_otimizado import *
 import tempfile
 
 import json
@@ -19,12 +20,18 @@ TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'PDF', 'CSV', 'TXT', 'Lista de documentos',
 ]
 
-CONFIG_MODELOS = {'OpenAI':
-                        {'modelos': ['gpt-4o', 'gpt-4o-mini', 'o1-preview', 'o1-mini'],
-                         'chat': ChatOpenAI},
-                  'Groq':
-                        {'modelos': ['llama-3.1-70b-versatile', 'gemma2-9b-it', 'mixtral-8x7b-32768'],
-                         'chat': ChatGroq}}
+CONFIG_MODELOS = {
+    'OpenAI': {
+        'modelos': ['gpt-4o', 'gpt-4o-mini', 'o1-preview', 'o1-mini'],
+        'chat': ChatOpenAI,
+        'embeddings': OpenAIEmbeddings
+    },
+    'Ollama': {
+        'modelos': ['llama3.2:3b', 'mistral', 'phi3', 'codellama', 'qwen', 'gemma'],
+        'chat': ChatOllama,
+        'embeddings': OllamaEmbeddings
+    }
+}
 
 MEMORIA = ConversationBufferMemory()
 
@@ -59,16 +66,24 @@ def carrega_arquivos(tipo_arquivo, arquivo):
 
 def carrega_modelo(provedor, modelo, api_key, tipo_arquivo, arquivo):
     if tipo_arquivo == 'Lista de documentos':
-        documentos = carrega_lista_txt()
-        if not documentos:
-            st.error("Nenhum documento encontrado para RAG.")
-            return
+        vectorstore, novo = get_vectorstore(
+            project="oraculo_creativity",
+            api_key=api_key,
+            provedor=provedor,
+            modelo=modelo
+        )
+        if novo:
+            st.success("Índice criado (primeira vez).")
+        else:
+            st.info("Índice carregado do disco – sem custo de embeddings.")
+        retriever = vectorstore.as_retriever(search_kwargs={"k": 6})
 
-        embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-        vectorstore = FAISS.from_documents(documentos, embeddings)
-        retriever = vectorstore.as_retriever(search_kwargs={"k": 5})
+        # Instancia o LLM corretamente
+        if provedor == "Ollama":
+            llm = ChatOllama(model=modelo)
+        else:
+            llm = ChatOpenAI(model=modelo, api_key=api_key)
 
-        llm = CONFIG_MODELOS[provedor]['chat'](model=modelo, api_key=api_key)
         chain = RetrievalQA.from_chain_type(
             llm=llm,
             retriever=retriever,
@@ -129,7 +144,7 @@ def pagina_chat():
 
         chat = st.chat_message('ai')
         if st.session_state.get('rag', False):
-            result = st.session_state['chain']({'query': input_usuario})
+            result = st.session_state['chain'].invoke({'query': input_usuario})
             resposta = result['result']
             fontes = result.get('source_documents', [])
             st.markdown(resposta)
