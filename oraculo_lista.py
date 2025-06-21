@@ -15,6 +15,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 
+
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'PDF', 'CSV', 'TXT', 'Lista de documentos',
 ]
@@ -50,8 +51,6 @@ def carrega_arquivos(tipo_arquivo, arquivo):
             temp.write(arquivo.read())
             nome_temp = temp.name
         return carrega_txt(nome_temp)
-    elif tipo_arquivo == 'Lista de documentos':
-        return carrega_lista_txt()
     else:
         st.error("Tipo de arquivo não suportado.")
         return None
@@ -59,15 +58,17 @@ def carrega_arquivos(tipo_arquivo, arquivo):
 
 def carrega_modelo(provedor, modelo, api_key, tipo_arquivo, arquivo):
     if tipo_arquivo == 'Lista de documentos':
-        documentos = carrega_lista_txt()
-        if not documentos:
-            st.error("Nenhum documento encontrado para RAG.")
-            return
+        vectorstore, novo = get_vectorstore(
+            project="creativity_in_vitro",       # ou outro nome se quiser
+            api_key=api_key                      # usa a mesma chave digitada no sidebar
+        )
+        if novo:
+            st.success("Índice criado (primeira vez).")
+        else:
+            st.info("Índice carregado do disco – sem custo de embeddings.")
 
-        embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-        vectorstore = FAISS.from_documents(documentos, embeddings)
+        # continua igual…
         retriever = vectorstore.as_retriever(search_kwargs={"k": 5})
-
         llm = CONFIG_MODELOS[provedor]['chat'](model=modelo, api_key=api_key)
         chain = RetrievalQA.from_chain_type(
             llm=llm,
