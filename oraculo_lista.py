@@ -79,6 +79,7 @@ def carrega_modelo(provedor, modelo, api_key, tipo_arquivo, arquivo):
     else:
         documento = carrega_arquivos(tipo_arquivo, arquivo)
 
+        documento_safe = documento.replace('{', '{{').replace('}', '}}')
         system_message = '''Você é um assistente amigável chamado Oráculo.
         Você possui acesso às seguintes informações vindas
         de um documento {}:
@@ -92,7 +93,7 @@ def carrega_modelo(provedor, modelo, api_key, tipo_arquivo, arquivo):
         Sempre que houver $ na sua saída, substitua por S.
 
         Se a informação do documento for algo como "Just a moment...Enable JavaScript and cookies to continue"
-        sugira ao usuário carregar novamente o Oráculo!'''.format(tipo_arquivo, documento)
+        sugira ao usuário carregar novamente o Oráculo!'''.format(tipo_arquivo, documento_safe)
 
         print(system_message)
 

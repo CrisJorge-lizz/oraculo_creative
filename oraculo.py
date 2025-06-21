@@ -135,6 +135,7 @@ def sidebar():
     if st.button('Apagar Histórico de Conversa', use_container_width=True):
         st.session_state['memoria'] = MEMORIA
 
+
 def main():
     with st.sidebar:
         sidebar()

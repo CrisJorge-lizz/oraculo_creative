@@ -138,7 +138,7 @@ def sidebar():
             arquivo = st.file_uploader('Faça o upload do arquivo csv', type=['.csv'])
         if tipo_arquivo == 'Txt':
             arquivo = st.file_uploader('Faça o upload do arquivo txt', type=['.txt'])
-        if tipo_arquivo == 'Lista de PDFs':
+        if tipo_arquivo == 'CSV com Lista de documentos':
             arquivo = st.file_uploader('Faça o upload do arquivo csv com a lista', type=['.csv'])
     with tabs[1]:
         provedor = st.selectbox('Selecione o provedor dos modelos', CONFIG_MODELOS.keys())

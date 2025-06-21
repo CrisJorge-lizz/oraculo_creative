@@ -60,8 +60,8 @@ def carrega_lista(caminho):
     if not os.path.exists(caminho):
         st.error(f"O arquivo {caminho} não foi encontrado.")
         return ''
-    df = pd.read_csv(caminho)
-    print(f'Shape: {df.shape}')
+
+    df = pd.read_csv(caminho, on_bad_lines='warn', sep=';', engine='python')
 
     # Tratamento de erros iniciais
 
